@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public class Main {
+public class Bmi {
  public static void main(String[] args){
 	 System.out.println("自分のBMIを知ろう！！");
 	 System.out.println("身長:");
